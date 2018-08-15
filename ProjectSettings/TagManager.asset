@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RunBtn
+  - IdleBtn
+  - Background
+  - Ground
+  - Char
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collector
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HeadP
+    uniqueID: 3230370731
+    locked: 0
+  - name: Left_Food
+    uniqueID: 3125013571
+    locked: 0
+  - name: Left_Hand
+    uniqueID: 1954535033
+    locked: 0
+  - name: Right_Food
+    uniqueID: 1518617139
+    locked: 0
+  - name: Body
+    uniqueID: 1349881257
+    locked: 0
+  - name: Right_Hand
+    uniqueID: 3083251607
+    locked: 0
+  - name: UI
+    uniqueID: 3297877669
+    locked: 0
+  - name: Char
+    uniqueID: 397139279
+    locked: 0
